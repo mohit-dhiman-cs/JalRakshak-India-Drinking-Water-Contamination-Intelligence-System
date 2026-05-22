@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/images/streamlit-logo-secondary-light.png" alt="Streamlit Logo" width="100"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit Logo" width="80"/>
   <h1>💧 JalRakshak Intelligence System</h1>
   <p><strong>India Drinking Water Contamination Intelligence & Machine Learning Suite</strong></p>
 </div>
